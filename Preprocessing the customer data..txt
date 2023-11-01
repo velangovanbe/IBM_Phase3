@@ -7,7 +7,7 @@ Dataset:
 A dataset is a collection of data, often organized in tabular format, that includes information about customers, such as demographics, transaction history, or other relevant attributes. In a customer segmentation project, the dataset typically includes information about the customers you aim to segment.
 
 Loading Data:
-Loading data refers to the process of importing or reading a dataset into a software environment, such as Python, for analysis. In Python, libraries like Pandas are commonly used to load data from various sources, such as CSV files, Excel sheets, or databases.
+Loading data refers to the process of importing or reading a dataset into a software environment, such as Python, for analysis. In  Python, libraries like Pandas are commonly used to load data from various sources, such as CSV files, Excel sheets, or databases.
 
 Preprocessing:
 Data preprocessing involves cleaning, transforming, and organizing data to make it suitable for analysis. Common preprocessing tasks include handling missing values, encoding categorical variables, scaling or normalizing numerical features, and removing irrelevant columns.
